@@ -1,0 +1,27 @@
+{
+  "name": "tesseract-core-code",
+  "version": "1.0.0",
+  "description": "Core Code final project. Tesseract.",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iyonbo/Core-Code-Tesseract.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.JS",
+    "SQLite"
+  ],
+  "author": "Iyonbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iyonbo/Core-Code-Tesseract/issues"
+  },
+  "homepage": "https://github.com/Iyonbo/Core-Code-Tesseract#readme",
+  "dependencies": {
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.2"
+  },
+  "type": "module"
+}
